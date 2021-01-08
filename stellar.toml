@@ -1,19 +1,2 @@
-NETWORK_PASSPHRASE="HELLO 2021"
-SIGNING_KEY="GCD4HSXG5AC4PQRKZPJ6VLN2M4XW6GUNHJTYSI5NLKWTU2XKNXKHVX3L"
-ACCOUNTS=[
-"GCD4HSXG5AC4PQRKZPJ6VLN2M4XW6GUNHJTYSI5NLKWTU2XKNXKHVX3L",
-]
-
-[DOCUMENTATION]
-ORG_NAME="Sam Org"
-ORG_URL="https://www.sxaloka.github.io"
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS="Sirius"
-ORG_OFFICIAL_EMAIL="sam@light.com"
-
-[[PRINCIPALS]]
-name="SX"
-email="sam@light.com"
-
 [SQ02_EASTER_EGG]
 TEXT = "Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
